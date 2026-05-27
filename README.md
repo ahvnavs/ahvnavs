@@ -6,23 +6,22 @@ Operating in the background to weave interconnected, fault-tolerant networks. Tr
 
 ---
 
-### 🎛️ CAPABILITY MATRIX
+### 🛠️ CORE INFRASTRUCTURE & TOOLING
 
-| Domain | Stack |
+| Domain | Technologies |
 | :--- | :--- |
-| **Infrastructure** | `AWS` • `Terraform` • `Linux` • `Ubuntu` • `HCL` • `GitFlow` |
-| **Orchestration** | `Docker` • `Kubernetes` • `Jenkins` • `ArgoCD` • `YAML` |
-| **Governance & Automation** | `Zero-Trust` • `Checkov` • `Trivy` • `Secrets Manager` • `Python` • `Bash` |
-| **Observability & Analytics** | `Prometheus` • `Grafana` • `Infracost` |
+| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white) |
+| **Orchestration** | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-000000?style=flat-square&logo=argo&logoColor=white) |
+| **DevSecOps** | ![Zero-Trust](https://img.shields.io/badge/Zero--Trust-000000?style=flat-square&logo=springsecurity&logoColor=white) ![Checkov](https://img.shields.io/badge/Checkov-000000?style=flat-square&logo=bridgecrew&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-000000?style=flat-square&logo=aquasecurity&logoColor=white) ![Vaulting](https://img.shields.io/badge/AWS_Secrets-000000?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Observability & Scripting**| ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white) |
 
 ---
 
-### 📊 ENGINE TELEMETRY
+### 📐 ARCHITECTURAL PRINCIPLES
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahvnavs&theme=dark&hide_border=true&count_private=true&icon_color=00FFCC&text_color=FFFFFF&title_color=00FFCC&bg_color=0D1117" height="150" alt="Profile Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvnavs&layout=compact&theme=dark&hide_border=true&icon_color=00FFCC&text_color=FFFFFF&title_color=00FFCC&bg_color=0D1117" height="150" alt="Language Inventory" />
-</p>
+* **Immutable Deployments:** Infrastructure lifecycle is managed strictly through code. Environments are destroyed and provisioned deterministically.
+* **Zero-Trust Perimeters:** Security is shifted left. Network access is explicitly denied by default, governed by granular access policies.
+* **Automated Pipelines:** Human intervention is removed from the deployment cycle to eliminate configuration drift and ensure predictable state execution.
 
 ---
 
