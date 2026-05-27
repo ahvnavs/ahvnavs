@@ -1,46 +1,37 @@
 # Abhinav Sharma
-**Systems Infrastructure & Platform Engineer**  
-*Specialized in Declarative Configurations, Cloud Automation, and Zero-Trust Governance Systems.*
+
+> Architecting structure. Building reality.
+
+Operating in the background to weave interconnected, fault-tolerant networks. Transforming architectural complexity into resilient, autonomous infrastructure. Security and stability are engineered by design, ensuring systems run silently and without drift.
 
 ---
 
-### 🌐 OPERATIONAL PROFILE
-An autonomous, execution-focused engineer dedicated to building deterministic, highly available cloud architecture. Focused on eliminating configuration drift through rigorous Infrastructure as Code (IaC) engineering, containerizing microservice landscapes, and securing deployment pipelines.
+### 🎛️ CAPABILITY MATRIX
 
-* 📡 **Primary Target:** Cloud Engineering / DevSecOps Ecosystems
-* 🏛️ **Architecture Philosophy:** Immutable infrastructure, data-driven optimization, and security shifted completely left.
-* 📍 **Deployment Hub:** Greater Noida, India | Optimized for 100% Remote (WFH) operations.
-
----
-
-### 🛠️ PLATFORM ARCHITECTURE MATRIX
-
-| Ecosystem | Weaponry & Tooling |
+| Domain | Stack |
 | :--- | :--- |
-| **Cloud & IaC** | `AWS` `Terraform` `Linux` `Ubuntu` `HCL` `GitFlow` |
-| **Orchestration & Pipelines** | `Docker` `Kubernetes` `Jenkins` `ArgoCD` `YAML` |
-| **DevSecOps & Security** | `Zero-Trust` `Checkov` `Trivy` `AWS Secrets Manager` |
-| **Observability & Analytics** | `Python` `Bash` `Prometheus` `Grafana` `Infracost` |
+| **Infrastructure** | `AWS` • `Terraform` • `Linux` • `Ubuntu` • `HCL` • `GitFlow` |
+| **Orchestration** | `Docker` • `Kubernetes` • `Jenkins` • `ArgoCD` • `YAML` |
+| **Governance & Automation** | `Zero-Trust` • `Checkov` • `Trivy` • `Secrets Manager` • `Python` • `Bash` |
+| **Observability & Analytics** | `Prometheus` • `Grafana` • `Infracost` |
 
 ---
 
-### 📊 METRICS & INFRASTRUCTURE VISUALIZATION
+### 📊 ENGINE TELEMETRY
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahvnavs&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=00FFCC&text_color=FFFFFF&title_color=00FFCC&bg_color=0D1117" height="150" alt="Core Profile Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvnavs&layout=compact&theme=dark&hide_border=true&icon_color=00FFCC&text_color=FFFFFF&title_color=00FFCC&bg_color=0D1117" height="150" alt="Language Distribution Inventory" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahvnavs&theme=dark&hide_border=true&count_private=true&icon_color=00FFCC&text_color=FFFFFF&title_color=00FFCC&bg_color=0D1117" height="150" alt="Profile Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvnavs&layout=compact&theme=dark&hide_border=true&icon_color=00FFCC&text_color=FFFFFF&title_color=00FFCC&bg_color=0D1117" height="150" alt="Language Inventory" />
 </p>
 
 ---
 
-### 📈 METRIC TRACKING & PROOF OF WORK
+### 📈 EXECUTION METRICS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahvnavs&theme=dark&hide_border=true&background=0D1117&stroke=00FFCC&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&ring=00FFCC&thisStreak=00FFCC" alt="System Execution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahvnavs&theme=dark&hide_border=true&background=0D1117&stroke=00FFCC&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&ring=00FFCC&thisStreak=00FFCC" alt="Execution Streak" />
 </p>
 
-***
-
 <p align="center">
-  <i>To inspect active codebases, underlying module logic, and active implementation repositories, review the pinned assets located at the top of this terminal space.</i>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Matrix Pipeline" />
 </p>
