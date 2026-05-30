@@ -24,13 +24,3 @@ Engineering cloud architecture with surgical precision. Driven by the pursuit of
 * **Automated Execution:** Human intervention is systematically eradicated from the deployment pipeline to eliminate drift and ensure unwavering state execution.
 
 ---
-
-### 📈 EXECUTION METRICS
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahvnavs&theme=dark&hide_border=true&background=0D1117&stroke=E50914&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&ring=E50914&thisStreak=E50914" alt="Execution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Matrix Pipeline" />
-</p>
