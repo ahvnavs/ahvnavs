@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Fluid Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Abhinav%20Sharma&fontSize=40&fontAlignY=35&desc=Cloud%20%26%20Platform%20Engineer&descAlignY=55&descSize=16&fontColor=C9D1D9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D1117&amp;height=150&amp;section=header&amp;text=Abhinav%20Sharma&amp;fontSize=40&amp;fontAlignY=35&amp;desc=Cloud%20%26%20Platform%20Engineer&amp;descAlignY=55&amp;descSize=16&amp;fontColor=C9D1D9" />
 
 <!-- High-Tech Typing Terminal Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Architecting+resilient+cloud+platforms.;Automating+infrastructure+pipelines.;Securing+distributed+systems.;Building+the+foundation." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Architecting+resilient+cloud+platforms.;Automating+infrastructure+pipelines.;Securing+distributed+systems.;Building+the+foundation." alt="Typing SVG" />
 </a>
 
 <br>
@@ -27,8 +27,8 @@ Drawing inspiration from robust, self-healing systems, my approach to platform e
 ### ❖ The Architecture Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,postgres&theme=dark&perline=6" /><br>
-    <img src="https://skillicons.dev/icons?i=python,bash,github,jenkins,grafana,prometheus&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,postgres&amp;theme=dark&amp;perline=6" /><br>
+    <img src="https://skillicons.dev/icons?i=python,bash,github,jenkins,grafana,prometheus&amp;theme=dark&amp;perline=6" />
   </a>
 </div>
 
@@ -46,7 +46,7 @@ The cloud-native landscape shifts rapidly. Rather than chasing every passing tre
 <br>
 
 <!-- Sleek, minimal contact badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahvnav)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahvnav01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/ahvnav)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:ahvnav01@gmail.com)
 
 </div>
